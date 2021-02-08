@@ -1,0 +1,19 @@
+header{
+  height: 90px;
+  width: 100%;
+  background: #6071e7;
+  padding: 0 50px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+nav a{
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 22px;
+}
